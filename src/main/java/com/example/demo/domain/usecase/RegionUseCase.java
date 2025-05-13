@@ -18,3 +18,4 @@ public class RegionUseCase implements IRegionServicePort {
         return regionPersistencePort.findByAll();
     }
 }
+
